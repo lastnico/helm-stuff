@@ -1,6 +1,7 @@
 # Default values for roar-web chart.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
+namespace: helm-stuff
 replicaCount: 1
 deployment:
   ports:
